@@ -1,0 +1,25 @@
+.header {
+text-align:  
+back-ground: cornflowerblue;
+}
+
+.about-me {
+  font-size: 20;
+ opacity: 0.5%;
+}
+
+.title {
+  font-weght: bold;
+}
+h1 {
+  color: blue;
+}
+
+body {
+  font-family: georgia;
+}
+
+body {
+  back-ground-img:
+  url('https://example.com/images/image.png');
+}
